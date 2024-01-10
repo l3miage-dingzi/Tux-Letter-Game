@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+--><tux:dictionnaire xmlns:tux="http://myGame/tux" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://myGame/tux ../xsd/dico.xsd">
+                                            
+    
+    
+    
+    
+    
+    
+    
+    <!-- Niveau 1：les  fruits  -->
+                            
+    
+    
+    
+    
+    
+    <!-- Niveau 2：les  le corps humain -->
+                            
+    
+    
+    
+    
+    
+    <!-- Niveau 3：les  continents  -->
+                            
+    
+    
+    
+    
+    
+    <!-- Niveau 4：les  pays  -->
+                            
+    
+    
+    
+    
+    
+    <!-- Niveau 5：tout autre mot -->
+                            
+  
+    
+    
+    <tux:mot niveau="1">orange</tux:mot>
+     
+    
+    <tux:mot niveau="1">banane</tux:mot>
+       
+    
+    <tux:mot niveau="2">pieds</tux:mot>
+      
+    
+    <tux:mot niveau="2">bouche</tux:mot>
+      
+    
+    <tux:mot niveau="3">Asie</tux:mot>
+        
+    <tux:mot niveau="3">Afrique</tux:mot>
+        
+    <tux:mot niveau="4">France</tux:mot>
+        
+    
+    <tux:mot niveau="4">Canada</tux:mot>
+      
+    
+    
+    <tux:mot niveau="5">ordinateur</tux:mot>
+        
+    <tux:mot niveau="5">tomber</tux:mot>
+                        
+
+
+
+
+
+
+</tux:dictionnaire>
